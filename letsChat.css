@@ -1,0 +1,19 @@
+ body{
+    background: linear-gradient(lightblue, blue);
+}
+
+#logout_btn{
+    margin: 10px;
+}
+
+.room_row{
+    font-weight: bold;
+    font-size: medium;
+    margin-top: -10px;
+}
+
+.room_hr{
+    background-color: grey;
+    height: 2px;
+    border-color: grey;
+}
